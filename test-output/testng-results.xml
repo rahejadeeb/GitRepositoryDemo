@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-12T00:07:35 EDT" name="Default suite" finished-at="2024-07-12T00:07:35 EDT" duration-ms="54">
+    <groups>
+    </groups>
+    <test started-at="2024-07-12T00:07:35 EDT" name="Default test" finished-at="2024-07-12T00:07:35 EDT" duration-ms="54">
+      <class name="GitPractice_July12.PracticeSessionOne_July12Test">
+        <test-method signature="methodOne()[pri:0, instance:GitPractice_July12.PracticeSessionOne_July12Test@44821a96]" started-at="2024-07-12T00:07:35 EDT" name="methodOne" finished-at="2024-07-12T00:07:35 EDT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodOne -->
+      </class> <!-- GitPractice_July12.PracticeSessionOne_July12Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
