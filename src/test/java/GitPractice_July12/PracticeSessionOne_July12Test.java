@@ -15,5 +15,10 @@ public class PracticeSessionOne_July12Test {
 		System.out.println("New method to push to repository");
 	}
 	
+	@Test
+	public void methodThree() {
+		System.out.println("New method to push to repository");
+	}
+	
 
 }
